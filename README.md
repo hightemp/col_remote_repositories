@@ -42,7 +42,12 @@
   - [file_system](#) [rename](#)
   - Взято: https://t.me/open_source_friend/1882
   - Репозиторий: https://github.com/ayoisaiah/f2
-
+- **Eww**
+  - [Описание](docs/eww.md)
+  - [rust](#) [widgets](#) [gui](#) [window_manager](#)
+  - Взято: https://t.me/open_source_friend/1875
+  - Репозиторий: https://github.com/elkowar/eww
+  - Сайт: https://elkowar.github.io/eww/
 
 ## Тэги
 
