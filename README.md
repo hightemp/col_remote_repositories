@@ -1,6 +1,6 @@
 # Коллекция репозиториев
 
-- col_remote_repositories
+- col_remote_repositories https://github.com/hightemp/col_remote_repositories
 
 ## Список
 
