@@ -16,6 +16,11 @@
   - Репозиторий: https://gitlab.com/secure-system/Insular
   - F-Droid: https://f-droid.org/packages/com.oasisfeng.island.fdroid/
   - Сайт: https://secure-system.gitlab.io/Insular/
+- **OSINT tools collection**
+  - [Описание](docs/osint_tools_collection.md)
+  - [osint](#) [secops](#) 
+  - Взято: https://t.me/open_source_friend/1898
+  - Репозиторий: https://github.com/cipher387/osint_stuff_tool_collection
 
 ## Тэги
 
