@@ -32,6 +32,17 @@
   - Взято: https://t.me/open_source_friend/1889
   - Репозиторий: https://github.com/sissbruecker/linkding
   - Демо: https://demo.linkding.link/
+- **Awesome Stock Resources**
+  - [Описание](docs/awesome_stock_resources.md)
+  - [photo](#) [stock](#) [database](#)
+  - Взято: https://t.me/open_source_friend/1886
+  - Репозиторий: https://github.com/neutraltone/awesome-stock-resources
+- **F2**
+  - [Описание](docs/f2.md)
+  - [file_system](#) [rename](#)
+  - Взято: https://t.me/open_source_friend/1882
+  - Репозиторий: https://github.com/ayoisaiah/f2
+
 
 ## Тэги
 
