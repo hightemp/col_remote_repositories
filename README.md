@@ -26,6 +26,12 @@
   - [browser](#) [secops](#) [sms](#)
   - Взято: https://t.me/open_source_friend/1891
   - Репозиторий: https://github.com/lukeaschenbrenner/TxtNet-Browser
+- **linkding**
+  - [Описание](docs/linkding.md)
+  - [database](#) [webapp](#) [links](#)
+  - Взято: https://t.me/open_source_friend/1889
+  - Репозиторий: https://github.com/sissbruecker/linkding
+  - Демо: https://demo.linkding.link/
 
 ## Тэги
 
