@@ -21,6 +21,11 @@
   - [osint](#) [secops](#) 
   - Взято: https://t.me/open_source_friend/1898
   - Репозиторий: https://github.com/cipher387/osint_stuff_tool_collection
+- **TxtNet Browser**
+  - [Описание](docs/TxtNet_Browser.md)
+  - [browser](#) [secops](#) [sms](#)
+  - Взято: https://t.me/open_source_friend/1891
+  - Репозиторий: https://github.com/lukeaschenbrenner/TxtNet-Browser
 
 ## Тэги
 
